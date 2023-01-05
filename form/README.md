@@ -3,6 +3,9 @@
  Weight: 1
  Ongoing second chance project - started Dec 26, 2022 12:00 AM, must end by Jan 9, 2023 12:00 AM
  An auto review will be launched at the deadline
+ 
+ ![image](https://user-images.githubusercontent.com/98775997/210689506-da830831-4240-48da-bb54-567b19682125.png)
+
 
 
 ## Resources
